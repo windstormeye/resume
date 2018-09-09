@@ -34,7 +34,7 @@
 ### Bonfire —— 我们在暗中保护你
 * Github: [https://github.com/windstormeye/Bonfire](https://github.com/windstormeye/Bonfire)
 * 简介：从 `Bonfire` 的字面上意思来看，直译为篝火。而火会给与人安全感，再以篝火乃熊熊之势，可令其周围凶狠残暴之物退却，从而引申出了 `Bonfire` 的本意 —— 保护用户。从近期社会发展态势观之，人身安全问题的考虑已迫在眉睫，而 `Bonfire` 就是解决这个问题的极佳利器！
-
+·
 ### PLook —— 记录你的知识
 * Github: [https://github.com/windstormeye/Peek](https://github.com/windstormeye/Peek)
 * 简介：不想因为几个重点知识点而带上一本厚厚的书？不想把自己努力梳理出来的重点知识束之高阁？很想跟同学们打造一本属于自己的知识小册？我们来了！ `PLook` 打造了独特的内容识别引擎，不管你是使用了荧光笔还是中性笔进行重点内容区域的涂抹和绘制， `PLook` 都能够较好的识别，帮助你快速记录重点知识！
