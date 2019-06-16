@@ -1,6 +1,6 @@
 ## 翁培钧 「iOS开发工程师」
 * 北京信息科技大学 软件工程 大四
-* **技术栈**：主攻 `iOS` 开发。懂得微信小程序、`Flutter`、`React-Native`、`Web` 开发等，尝试 `Python` 为主的后端开发
+* **技术栈**：主攻 `iOS` 开发。懂得微信小程序、`Flutter`、`React-Native`、`Web` 开发等，尝试 `Python` 为主后端开发
 * GitHub：[github.com/windstormeye](https://github.com/windstormeye)
 * 博客：[pjhubs.com](http://pjhubs.com)
 
@@ -73,7 +73,7 @@
 * GitHub：[github.com/ifLab/iCampus-iOS](https://github.com/ifLab/iCampus-iOS)
 
 ## 🎈 志愿活动
-* 第一届北京信息科技大学编程马拉松（BISTUHackathon） 技术顾问
+* 第一届北京信息科技大学编程马拉松（BISTUHackathon） 学术顾问
 * 2019 北京 Qcon 全球软件开发大会 讲师助理
 * WTM 2019 @ GDG Beijing:《Python 从 0 到 1》 助教
 * 2018 [GCD in BISTU](https://www.iflab.org/2018/11/04/iflab-cgc01/) “女性一日编程”活动 负责人
